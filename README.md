@@ -1,4 +1,4 @@
-# Hi, I’m [Ezequiel Piseri]
+# Hi, I’m Ezequiel Piseri
 
 💡 Passionate **Data Scientist** and **Programmer** with a solid foundation in computer science and hands-on experience in data-driven problem solving.  
 📍 Based in Rosario, Argentina.  
